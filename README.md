@@ -4,8 +4,7 @@
 
 I work at the intersection of drug safety and data science: turning messy,
 real-world healthcare data into evidence that people can actually act on. My
-background is in [pharma / your field — e.g. "the pharmaceutical industry, with
-work at AstraZeneca"], and I'm now focused on applying machine learning and
+background is in clinical research and business operation in the healthcare industry, and I'm now focused on applying machine learning and
 modern data tooling to safety, outcomes, and population-health questions.
 
 ### What I'm focused on
@@ -19,8 +18,12 @@ Detecting adverse-drug-reaction safety signals from 1.5M+ FDA FAERS reports usin
 PRR/ROR disproportionality analysis — the same methods pharmacovigilance teams use
 in practice. Includes a plain-language RWE memo interpreting the findings.
 
-### Tools
-`Python` · `pandas` · `scikit-learn` · `SQL` · [add: e.g. `SAS`, `R`, `XGBoost`, `SHAP`]
+### Skills
+
+- **Programming & data:** Python · SQL · R · SAS
+- **Analytics & BI:** Tableau · Power BI · Google Analytics · Microsoft Office
+- **Methods:** machine learning · predictive modeling · statistical analysis · experimentation · real-world data analysis
+- **Domain:** clinical & EHR data · pharmaceutical commercialization · healthcare operations · regulatory (FDA — US / EU / Thai)
 
 ### Let's connect
 - 📧 peckmingpatumkij@gmail.com
