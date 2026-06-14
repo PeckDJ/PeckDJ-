@@ -1,6 +1,6 @@
 ## Hi, I'm Peck 👋
 
-**Healthcare data & AI — pharmacovigilance, real-world evidence, and clinical ML.**
+**Healthcare data & AI — Healthcare, real-world evidence, and clinical ML.**
 
 I work at the intersection of drug safety and data science: turning messy,
 real-world healthcare data into evidence that people can actually act on. My
